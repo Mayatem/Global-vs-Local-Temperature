@@ -1,5 +1,8 @@
 # 🌍 Global vs Local Temperature Analysis
-## Power BI | DAX | Linear Regression
+### Power BI | DAX | Linear Regression
+  ## 📊 Data Preparation & Master Table
+![Data Preparation](project1_1.png)
+
 ## 📌 Project Overview
 
 This project analyzes the relationship between global temperature trends and the local average temperatures of Milan, Nashville, and Paris between 1776 and 2013.
@@ -34,6 +37,8 @@ Cities analyzed:
 - Paris
 
 Time range filtered: 1776–2013
+## 📈 Average Temperatures by Year
+![Trend Analysis](project1_2.png)
 
 ## 🔄 Data Preparation (Power Query)
 
@@ -71,6 +76,9 @@ Key Findings:
 
 This suggests Milan’s local temperature changes most closely follow global trends.
 
+## 🔥 Correlation Heatmap
+![Correlation Heatmap](project1_3.png)
+
 ### 3️⃣ Regression Analysis
 
 Linear regression models were built for each city against global temperatures.
@@ -86,6 +94,9 @@ Interpretation:
 All cities show positive correlation
 - As global temperature increases, local temperatures increase
 - Milan exhibits the strongest relationship
+
+## 📉 Regression Analysis (Global vs Local)
+![Regression Analysis](project1_4.png)
 
 ## 📊 Visualizations
 **Data Cleaning & Master Table**
@@ -116,20 +127,9 @@ All cities show positive correlation
 - Data storytelling using dashboards
 - Interpretation of climate trend data
 
-  ## 📊 Data Preparation & Master Table
-![Data Preparation](project1_1.png)
 
----
 
-## 📈 Average Temperatures by Year
-![Trend Analysis](project1_2.png)
 
----
 
-## 🔥 Correlation Heatmap
-![Correlation Heatmap](project1_3.png)
 
----
 
-## 📉 Regression Analysis (Global vs Local)
-![Regression Analysis](project1_4.png)
