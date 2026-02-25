@@ -115,3 +115,21 @@ All cities show positive correlation
 - Statistical reasoning (correlation + regression)
 - Data storytelling using dashboards
 - Interpretation of climate trend data
+
+  ## 📊 Data Preparation & Master Table
+![Data Preparation](project1_1.png)
+
+---
+
+## 📈 Average Temperatures by Year
+![Trend Analysis](project1_2.png)
+
+---
+
+## 🔥 Correlation Heatmap
+![Correlation Heatmap](project1_3.png)
+
+---
+
+## 📉 Regression Analysis (Global vs Local)
+![Regression Analysis](project1_4.png)
